@@ -6,7 +6,7 @@
 
   ### 🔐 PROTEGEMOS LO QUE MÁS IMPORTA
 
-  **Plan de Infraestructura de Red | Proyecto Final SENA**
+  **Plan de Infraestructura de Red 
 
   🌐 Redes WAN · 🔒 Ciberseguridad · 🖥️ Infraestructura de redes
 
