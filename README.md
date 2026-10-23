@@ -3,7 +3,7 @@
 
 ## Diagrama de la topología de red
 
-![Diseño de conexión WAN entre redes](diagramas/topologia-red.png)
+![Diseño de conexión WAN entre redes](plan-infraestructura-red-senatic/diagramas/Diagramas_Red_Oracle_SENA_page-0001.jpg)
 
 ## Diseño de la infraestructura
 
