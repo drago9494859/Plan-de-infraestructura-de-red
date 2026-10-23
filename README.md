@@ -1,6 +1,8 @@
 <div align="center">
 
-  <img src="./diagramas/titan-secure.png" alt="TITÁN SECURE" width="350">
+  <img src="./diagramas/Logo%20.jpg"
+       alt="Logo TITÁN SECURE"
+       width="350">
 
   # 🛡️ TITÁN SECURE
 
