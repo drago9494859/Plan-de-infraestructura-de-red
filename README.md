@@ -3,7 +3,7 @@
 
 ## Diagrama de la topología de red
 
-![Topología de red](diagramas/topologia-red.png)
+![Topología de red](plan-infraestructura-red-senatic/diagramas/Diagramas_Red_Oracle_SENA_page-0001.jpg)
 
 ## Diseño de la infraestructura
 
