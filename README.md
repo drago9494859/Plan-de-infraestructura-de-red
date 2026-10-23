@@ -7,7 +7,7 @@
 
 ## Diseño de la infraestructura
 
-![Diseño de infraestructura](diagramas/infraestructura.png)
+![Diseño de infraestructura](plan-infraestructura-red-senatic/diagramas/Diagramas_Red_Oracle_SENA_page-0001.png)
 
 ## Cableado estructurado
 
