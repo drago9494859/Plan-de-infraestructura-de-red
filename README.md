@@ -3,11 +3,11 @@
 
 ## Diagrama de la topología de red
 
-![Topología de red](plan-infraestructura-red-senatic/diagramas/Diagramas_Red_Oracle_SENA_page-0001.jpg)
+![Diseño de conexión WAN entre redes](diagramas/topologia-red.png)
 
 ## Diseño de la infraestructura
 
-![Diseño de infraestructura](plan-infraestructura-red-senatic/diagramas/Diseño.png)
+![Diseño de infraestructura]()
 
 ## Cableado estructurado
 
