@@ -7,7 +7,7 @@
 
 ## Diseño de la infraestructura
 
-![Diseño de infraestructura](plan-infraestructura-red-senatic/diagramas/Diseño WAN seguro entre sedes.png)
+![Diseño de infraestructura](plan-infraestructura-red-senatic/diagramas/Diseño.png)
 
 ## Cableado estructurado
 
