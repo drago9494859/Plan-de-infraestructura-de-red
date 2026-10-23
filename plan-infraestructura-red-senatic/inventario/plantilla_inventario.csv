@@ -1,0 +1,5 @@
+ID,Dispositivo,Marca_Modelo,Ubicacion,Direccion_IP,MAC,Funcion,Estado,Observaciones
+EQ-001,Router,PENDIENTE,PENDIENTE,PENDIENTE,PENDIENTE,Enrutamiento,Por verificar,
+EQ-002,Switch,PENDIENTE,PENDIENTE,PENDIENTE,PENDIENTE,Conmutacion,Por verificar,
+EQ-003,Servidor,PENDIENTE,PENDIENTE,PENDIENTE,PENDIENTE,Servicio de red,Por verificar,
+EQ-004,Computador,PENDIENTE,PENDIENTE,PENDIENTE,PENDIENTE,Usuario final,Por verificar,
