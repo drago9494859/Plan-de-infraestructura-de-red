@@ -7,7 +7,7 @@
 
 ## Diseño de la infraestructura
 
-![Diseño de infraestructura]()
+![Diseño de infraestructura](diagramas/topologia-red.png)
 
 ## Cableado estructurado
 
