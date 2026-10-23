@@ -1,8 +1,6 @@
 <div align="center">
 
-  <img src="./diagramas/Logo%20.jpg"
-       alt="Logo TITÁN SECURE"
-       width="350">
+ ![Titan security](plan-infraestructura-red-senatic/diagramas/Logo.jpg)
 
   # 🛡️ TITÁN SECURE
 
