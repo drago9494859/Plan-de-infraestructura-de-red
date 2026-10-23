@@ -3,16 +3,20 @@
 
 <div align="center">
 
-  <picture>
-    <img src="./diagramas/topologia-red.png" alt="Diseño de conexión WAN entre redes SENATIC" width="800" />
-  </picture>
+  <img src="./diagramas/titan-secure.png"
+       alt="Logo TITÁN SECURE"
+       width="380" />
 
-  # 🌐 Plan de Infraestructura de Red – SENATIC
+  # 🛡️ TITÁN SECURE
 
-  ### 🔐 Diseño, conexión y seguridad de redes informáticas
+  ### 🔐 Protegemos lo que más importa
 
-  **Proyecto Final – SENA**
+  **Plan de Infraestructura de Red – Proyecto Final SENA**
+
+  ---
+  
+  ## 🌐 Infraestructura de red y ciberseguridad
+
+  🚀 Conectividad · Seguridad informática · Redes WAN · VPN IPsec
 
 </div>
-
-# 🚀 Conecta sedes, protege la información y garantiza una comunicación eficiente entre redes 🌐
