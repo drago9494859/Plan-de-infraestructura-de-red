@@ -3,10 +3,9 @@
 
 <div align="center">
 
-  <img src="./diagramas/titan-secure.png"
+ <img src="./diagramas/Logo%20.jpg"
        alt="Logo TITÁN SECURE"
-       width="380" />
-
+       width="350">
   # 🛡️ TITÁN SECURE
 
   ### 🔐 Protegemos lo que más importa
